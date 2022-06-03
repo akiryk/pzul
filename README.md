@@ -126,7 +126,7 @@ If you run into any issues deploying to Fly, make sure you've followed all of th
 
 ## GitHub Actions
 
-We use GitHub Actions for continuous integration and deployment. Anything that gets into the `main` branch will be deployed to production after running tests/build/etc. Anything in the `dev` branch will be deployed to staging.
+We use GitHub Actions for continuous integration and deployment. Anything that gets into the `main` branch will be deployed to production after running tests/build/etc. Anything in the `dev` branch will be deployed to fly.pzul-33d6-staging.dev.
 
 ## Testing
 
